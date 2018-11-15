@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "test"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "meytin"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
